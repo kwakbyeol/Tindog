@@ -251,7 +251,7 @@ img:nth-child(5) {
 }
 .nav > .nav-header > .nav-title {
   display: inline-block;
-  padding: 4% 8px 4% 8px;
+  padding: 2% 8px 2% 8px;
 }
 .nav > .nav-btn {
   display: none;
@@ -283,7 +283,7 @@ img:nth-child(5) {
     display: inline-block;
     position: absolute;
     right: 3%;
-    top: 20%;
+    top: 15%;
   }
   .nav > .nav-btn > label {
     display: inline-block;

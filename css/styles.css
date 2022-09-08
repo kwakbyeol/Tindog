@@ -55,7 +55,7 @@ p {
 }
 .about-container {
   margin: 0;
-  padding: 0;
+  padding: 0 0 0 8%;
 }
 .android-icon {
   height: 4.6%;
@@ -329,13 +329,14 @@ img:nth-child(5) {
 }
 .previews {
   padding-top: 8%;
-  margin: 0 6%;
+  margin: 0 5%;
   width: 20%;
 }
 .previews-text {
   display: inline-block;
   margin: 0;
-  padding: 2% 8.5% 7%;
+  font-size: 1.4vw;
+  padding: 2% 7.5% 7%;
   text-align: center;
   width: 15%;
 }

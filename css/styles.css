@@ -329,13 +329,13 @@ img:nth-child(5) {
 }
 .previews {
   padding-top: 8%;
-  margin: 0 6.5%;
+  margin: 0 6%;
   width: 20%;
 }
 .previews-text {
   display: inline-block;
   margin: 0;
-  padding: 2% 9% 7%;
+  padding: 2% 8.5% 7%;
   text-align: center;
   width: 15%;
 }
